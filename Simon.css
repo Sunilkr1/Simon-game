@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    font-family: "Poppins";
+    background-color: #F9F7F7;
+
+}
+h1 {
+color: #FF004D;
+
+}
+h2 {
+    color: #000000;
+}
+
+.btn {
+
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 7px solid #121013;
+    margin: 1.5rem;
+
+}
+.btn-container {
+    display: flex;
+    justify-content: center;
+}
+.yellow{
+    background-color: #f99b45;
+}
+.red {
+    background-color: #d95980;
+}
+.green{
+    background-color: #63aac0;
+
+}
+.purple {
+    background-color: #819ff9;
+}
+
+.flash {
+    background-color: white;
+}
+.userflas {
+    background-color: green;
+}
